@@ -7,7 +7,7 @@ import { Image } from "astro:assets";
 import image_1 from "@images/toolbar.webp";
 
 const platform = {
-  title: "Blockchains Networks",
+  title: "Seamless Data Processing",
   description:
     "Leverage the power of AI-driven analytics without complex configurations. DataNova Core integrates seamlessly with your existing data sources, ensuring smooth data ingestion, transformation, and visualization.",
 };
